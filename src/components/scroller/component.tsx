@@ -1,6 +1,6 @@
 import React from "react";
 import css from "./styles.module.css";
-
+import { KokoroTTS } from "kokoro-js"; 
 // // // //
 
 /**
